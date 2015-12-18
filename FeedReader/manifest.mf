@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.glinboy.feedreader
+OpenIDE-Module-Layer: com/glinboy/feedreader/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/glinboy/feedreader/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
